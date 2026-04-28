@@ -1,0 +1,31 @@
+.primer1 {
+background-color: black;
+color: white;
+font-family: Arial;
+}
+
+.wrap {
+display:flex;
+align-items: center;
+color:white;
+padding-left:15px;
+justify-content: space-evenly;
+}
+
+.buttons1 {
+width: 400px;
+height: 40px;
+background-color: grey;
+color: black;
+}
+
+.buttons2 {
+width: 400px;
+height: 40px;
+background-color: blue;
+color: white;
+}
+
+.h6{
+color:blue;
+}
